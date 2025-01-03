@@ -20,7 +20,7 @@ import struct
 CLIENT = CLIENT()
 COMPLETED_BTN = InlineKeyboardMarkup(
   [[
-    InlineKeyboardButton('💟 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💟', url='https://t.me/VJ_Bot_Disscussion')
+    InlineKeyboardButton('💟 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💟', url='https://t.me/+YTq567GbiJY3M2Fl')
   ],[
     InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 💠', url='https://t.me/vj_botz')
   ]]
