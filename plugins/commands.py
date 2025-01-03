@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 import os
 import sys
@@ -18,7 +18,7 @@ START_TIME = time.time()
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 main_buttons = [[
     InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/Star_light_10')
@@ -36,7 +36,7 @@ main_buttons = [[
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_message(filters.private & filters.command(['start']))
 async def start(client, message):
@@ -51,7 +51,7 @@ async def start(client, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_message(filters.private & filters.command(['restart']) & filters.user(Config.BOT_OWNER))
 async def restart(client, message):
@@ -63,7 +63,7 @@ async def restart(client, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^help'))
 async def helpcb(bot, query):
@@ -80,7 +80,7 @@ async def helpcb(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^how_to_use'))
 async def how_to_use(bot, query):
@@ -94,7 +94,7 @@ async def how_to_use(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^back'))
 async def back(bot, query):
@@ -105,7 +105,7 @@ async def back(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^about'))
 async def about(bot, query):
@@ -122,7 +122,7 @@ async def about(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^status'))
 async def status(bot, query):
@@ -142,7 +142,7 @@ async def status(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_callback_query(filters.regex(r'^systm_sts'))
 async def sys_status(bot, query):
@@ -173,7 +173,7 @@ async def sys_status(bot, query):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 async def get_bot_uptime(start_time):
     # Calculate the uptime in seconds
@@ -192,4 +192,4 @@ async def get_bot_uptime(start_time):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10

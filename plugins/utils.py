@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 import time as tm
 from database import Db, db
@@ -10,7 +10,7 @@ STATUS = {}
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 class STS:
     def __init__(self, id):
@@ -65,4 +65,4 @@ class STS:
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10

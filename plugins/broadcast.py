@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from database import db
@@ -13,14 +13,14 @@ import logging
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 async def broadcast_messages(user_id, message):
     try:
@@ -45,7 +45,7 @@ async def broadcast_messages(user_id, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 
 @Client.on_message(filters.command("broadcast") & filters.user(Config.BOT_OWNER) & filters.reply)
@@ -64,7 +64,7 @@ async def verupikkals(bot, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
     success = 0
     async for user in users:
@@ -97,5 +97,5 @@ async def verupikkals(bot, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 

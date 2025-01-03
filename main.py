@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 import asyncio, logging
 from config import Config
@@ -11,7 +11,7 @@ from plugins.regix import restart_forwards
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 if __name__ == "__main__":
     VJBot = VJ(
@@ -72,4 +72,4 @@ if __name__ == "__main__":
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10

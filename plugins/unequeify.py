@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 import re, asyncio
 from database import Db, db
@@ -15,7 +15,7 @@ import struct
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 CLIENT = CLIENT()
 COMPLETED_BTN = InlineKeyboardMarkup(
@@ -29,7 +29,7 @@ CANCEL_BTN = InlineKeyboardMarkup([[InlineKeyboardButton('• ᴄᴀɴᴄᴇʟ',
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 def encode_file_id(s: bytes) -> str:
     r = b""
@@ -49,7 +49,7 @@ def encode_file_id(s: bytes) -> str:
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 def unpack_new_file_id(new_file_id):
     """Return file_id"""
@@ -67,7 +67,7 @@ def unpack_new_file_id(new_file_id):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
 
 @Client.on_message(filters.command("unequify") & filters.private)
 async def unequify(client, message):
@@ -150,4 +150,4 @@ async def unequify(client, message):
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Star_light_10
