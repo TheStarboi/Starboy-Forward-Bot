@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 import time as tm
@@ -9,7 +9,7 @@ from .test import parse_buttons
 STATUS = {}
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 class STS:
@@ -64,5 +64,5 @@ class STS:
                 'keywords': configs['keywords'], 'min_size': min, 'max_size': max, 'extensions': configs['extension'], 'skip_duplicate': duplicate, 'db_uri': configs['db_uri']}, configs['protect'], button
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01

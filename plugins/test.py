@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 import os
@@ -26,7 +26,7 @@ from pyrogram.errors import (
 )
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 logger = logging.getLogger(__name__)
@@ -37,7 +37,7 @@ BOT_TOKEN_TEXT = "<b>1) create a bot using @BotFather\n2) Then you will get a me
 SESSION_STRING_SIZE = 351
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 class CLIENT: 
@@ -139,7 +139,7 @@ class CLIENT:
      return True
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 @Client.on_message(filters.private & filters.command('reset'))
@@ -149,7 +149,7 @@ async def forward_tag(bot, m):
    await m.reply("successfully settings reseted ✔️")
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 @Client.on_message(filters.command('resetall') & filters.user(Config.BOT_OWNER))
@@ -177,7 +177,7 @@ async def resetall(bot, message):
   await sts.edit("completed\n" + TEXT.format(total, success, failed, already))
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 async def get_configs(user_id):
@@ -185,7 +185,7 @@ async def get_configs(user_id):
   return configs
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 async def update_configs(user_id, key, value):
@@ -197,7 +197,7 @@ async def update_configs(user_id, key, value):
   await db.update_configs(user_id, current)
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 async def iter_messages(
@@ -225,7 +225,7 @@ async def iter_messages(
                 current += 1
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 async def get_client(bot_token, is_bot=True):
@@ -235,7 +235,7 @@ async def get_client(bot_token, is_bot=True):
     return Client("USERBOT", Config.API_ID, Config.API_HASH, session_string=bot_token)
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 def parse_buttons(text, markup=True):
@@ -261,5 +261,5 @@ def parse_buttons(text, markup=True):
     return buttons if buttons else None
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01

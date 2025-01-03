@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 import re, asyncio
@@ -14,7 +14,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import struct
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 CLIENT = CLIENT()
@@ -28,7 +28,7 @@ COMPLETED_BTN = InlineKeyboardMarkup(
 CANCEL_BTN = InlineKeyboardMarkup([[InlineKeyboardButton('• ᴄᴀɴᴄᴇʟ', 'terminate_frwd')]])
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 def encode_file_id(s: bytes) -> str:
@@ -48,7 +48,7 @@ def encode_file_id(s: bytes) -> str:
     return base64.urlsafe_b64encode(r).decode().rstrip("=")
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 def unpack_new_file_id(new_file_id):
@@ -66,7 +66,7 @@ def unpack_new_file_id(new_file_id):
     return file_id
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 @Client.on_message(filters.command("unequify") & filters.private)
@@ -149,5 +149,5 @@ async def unequify(client, message):
    await bot.stop()
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01

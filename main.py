@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 import asyncio, logging
@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 from plugins.regix import restart_forwards
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
 
 if __name__ == "__main__":
@@ -71,5 +71,5 @@ if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(main())
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://t.me/Star_Boy_96_vibes
 # Ask Doubt on telegram @KingVJ01
