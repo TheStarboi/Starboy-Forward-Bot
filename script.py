@@ -39,7 +39,7 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/VJForwardBot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/Star_light_10)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [◄⏤͟͞ꭙͯ͢³🔥 𝐒𝐭𝐚𝐫 𝐥𝐢𝐠𝐡𝐭💞𐏓꯭ ᷞ ͦ͢ ͮ ͤ🍷](https://t.me/Star_light_10)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/Star_Boy_96_vibes)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
